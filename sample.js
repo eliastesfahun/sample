@@ -22,3 +22,4 @@ if(index !== -1){
 console.log(names); // ['Peter', 'Yana', 'kristina', 'Rasmus', 'Samuel', 'katrine', 'Tala']
 
 // I am adding a new line 
+// am from remote
